@@ -14,8 +14,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Azure.Identity" Version="1.10.4" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="11.2.2" />
     <PackageReference Include="LigerShark.WebOptimizer.Core" Version="3.0.372" />
+    <PackageReference Include="SkiaSharp" Version="2.88.6" />
     <PackageReference Include="WebMarkupMin.AspNetCore7" Version="2.13.5" />
     <PackageReference Include="WebMarkupMin.NUglify" Version="2.13.5" />
   </ItemGroup>
